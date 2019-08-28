@@ -43,3 +43,4 @@ end
 
 def using_delete (array, string)
   instructors.delete("Steven")
+end
