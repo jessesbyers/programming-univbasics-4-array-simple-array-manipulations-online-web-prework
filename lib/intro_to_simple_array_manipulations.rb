@@ -29,5 +29,5 @@ def using_concat (my_favorite_things, all_my_favs)
 end
 
 def using_insert (array, element)
-  list_of_programming_languages.insert (4, "Python")
+  list_of_programming_languages.insert(4, "Python")
 end
